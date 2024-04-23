@@ -1,29 +1,29 @@
-.alert{
-    width:70%;
-    padding: 1rem;
+.alert {
+  width: 70%;
+  padding: 1rem;
 }
-.alert div{
-    margin-right: 1.5rem;
-    width: 2rem;
+.alert div {
+  margin-right: 1.5rem;
+  width: 2rem;
 }
-.alert span{
-    font-weight: bolder;
-    font-size: larger;
-    letter-spacing: 2px;
+.alert span {
+  font-weight: bolder;
+  font-size: larger;
+  letter-spacing: 2px;
 }
-.success-alert{
-    color: var(--success);
-    background:var(--success-bg);
+.success-alert {
+  color: var(--success);
+  background: var(--success-bg);
 }
-.warning-alert{
-    color:var(--dark);
-    background-color:var(--warning-bg);
+.warning-alert {
+  color: var(--dark);
+  background-color: var(--warning-bg);
 }
-.danger-alert{
-    color: var(--danger);
-    background-color: var(--danger-bg);
+.danger-alert {
+  color: var(--danger);
+  background-color: var(--danger-bg);
 }
-.info-alert{
-    color:var(--dark);
-    background-color: var(--info-light);
+.info-alert {
+  color: var(--dark);
+  background-color: var(--info-light);
 }

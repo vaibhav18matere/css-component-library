@@ -1,11 +1,11 @@
 /* avatar-style */
-.avatar-container{
-    width: 100%;
-    min-width: 350px;
-    flex-wrap: wrap;
-    margin-top: 2rem;
+.avatar-container {
+  width: 100%;
+  min-width: 350px;
+  flex-wrap: wrap;
+  margin-top: 2rem;
 }
-.avatar-img{
-    object-fit: cover;
-    border-radius: 50%;
+.avatar-img {
+  object-fit: cover;
+  border-radius: 50%;
 }

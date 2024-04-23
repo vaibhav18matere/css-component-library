@@ -1,7 +1,8 @@
-.round-resp-img{
-    border-radius: 50%;
+.round-resp-img {
+  border-radius: 50%;
 }
-.resp-img, .round-resp-img{
-    width:100%;
-    object-fit:cover;
+.resp-img,
+.round-resp-img {
+  width: 100%;
+  object-fit: cover;
 }

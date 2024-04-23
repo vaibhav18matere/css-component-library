@@ -21,7 +21,7 @@
 
 html,
 body {
-  font-family: 'Open sans', serif, sans-serif;
+  font-family: "Open sans", serif, sans-serif;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -51,7 +51,7 @@ body {
   --light-green: #249480;
   --google-plus-clr: #db4a39;
   --twitter-clr: #00acee;
-  --whatsapp-clr: #25D366;
+  --whatsapp-clr: #25d366;
   --border-radius-clr: #121212;
   --success: #175b3b;
   --success-bg: #a0e4c6;

@@ -12,7 +12,7 @@
   margin-top: 0;
 }
 
-.navbar>ul {
+.navbar > ul {
   list-style: none;
 }
 
@@ -21,8 +21,8 @@
   top: 0;
 }
 
-.navbar>ul>li,
-.navbar>img {
+.navbar > ul > li,
+.navbar > img {
   cursor: pointer;
 }
 
@@ -120,7 +120,7 @@
   background-color: var(--light);
 }
 
-@media screen and (max-width:550px) {
+@media screen and (max-width: 550px) {
   .navbar {
     font-size: 0.8rem;
     padding: 0.5rem;

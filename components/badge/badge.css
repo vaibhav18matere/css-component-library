@@ -1,57 +1,57 @@
 .badge-container {
-    margin-top: 2rem;
+  margin-top: 2rem;
 }
 
 .badge {
-    padding: 0.5rem;
+  padding: 0.5rem;
 }
 
 .primary-badge {
-    color: var(--white);
-    background-color: var(--primary);
+  color: var(--white);
+  background-color: var(--primary);
 }
 
 .secondary-badge {
-    border: 3px solid var(--primary);
-    color: var(--primary);
+  border: 3px solid var(--primary);
+  color: var(--primary);
 }
 
 .primary-pill {
-    color: var(--white);
-    background: var(--primary);
+  color: var(--white);
+  background: var(--primary);
 }
 
 .secondary-pill {
-    color: var(--primary);
-    border: 3px solid var(--primary);
+  color: var(--primary);
+  border: 3px solid var(--primary);
 }
 
 .badge-carbon {
-    /* margin-bottom: -250px; */
+  /* margin-bottom: -250px; */
 }
 
 /* badge-on-icon style */
 .badge-on-icon {
-    margin: 3rem;
+  margin: 3rem;
 }
 
 .notif-icon-badge {
-    position: relative;
-    height: 70px;
-    width: 70px;
-    border-radius: 50%;
-    border: none;
-    outline: none;
-    margin: 2rem;
+  position: relative;
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  margin: 2rem;
 }
 
 .total-badge-notif {
-    position: absolute;
-    top: -5px;
-    right: 15px;
-    width: 25px;
-    height: 25px;
-    background-color: var(--primary);
-    color: var(--white);
-    border-radius: 50%;
+  position: absolute;
+  top: -5px;
+  right: 15px;
+  width: 25px;
+  height: 25px;
+  background-color: var(--primary);
+  color: var(--white);
+  border-radius: 50%;
 }

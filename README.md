@@ -41,8 +41,7 @@ Just add following lines of code in a `<head/>` tag of your html file.
 
 ```bash 
 
-<link rel="stylesheet" href="https://falconui.netlify.app/styles.css">
-
+<link rel="stylesheet" href="https://falcon-ui-vm.vercel.app/styles.css">
 
 ```
 
